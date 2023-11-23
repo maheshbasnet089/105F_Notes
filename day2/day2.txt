@@ -1,0 +1,9 @@
+Patch 
+
+put
+
+facebook : 
+ edit Profile 
+  email (basnetmanish@gmail.com)-->hello@gmail.com
+  password - 
+ Edit Profile
