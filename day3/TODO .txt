@@ -1,0 +1,27 @@
+TODO 
+Vscode vaneko k ho ? IDE(integrated developement environment) , Editor
+HTML vaneko k ho ? fileExtension ? 
+Html versioninng, html5,doctype html
+Html ko skeleton/boilerplate ?<head>,seo,styles,meta
+Tags 
+Github ma aaja gareko code halney 
+
+Headings , Paragraphs,List(ordered,unordered)
+
+Editor,Compiler,Debugger ,.... => IDE --> Jetbrains,Eclipse,Visual Studio
+Code matra lekhna milyo ---> Editor --> Vscode,Atom,Sublime,notepad
+html vaneko  k ho ? 
+Programming scripting
+
+
+print("hello")
+printf("hello")
+System.out.println("hello")
+console.log("hello")
+
+
+Tags in html ? 
+html versioning ? 
+Doctype --> yo code chae html5 ma ho hae vanerw browser lai vanxan 
+
+
