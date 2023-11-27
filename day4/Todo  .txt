@@ -1,0 +1,26 @@
+Todo : 
+Vscode tips : Ctrl + Enter ==> To go new Line
+Ctrl + D : TO select same occurence 
+Alt + D : To select custom occurence
+Alt + Shift + up or down arrow ==> to copy line
+Alt + Z : To wrap the words
+Alt + up or down : TO move Line 
+
+Tags 
+<p> </p>, <h1> </h1>
+Element
+Opening + Content + Closing Tag 
+<p> Hello world </p>
+
+Heading Tags 
+Paragraph 
+List 
+   Unordered List(ul), Ordered List (ol)
+
+Semantic HTML 
+<div> </div>
+<header>
+<nav>
+<main>
+<footer>
+Github : Kunae item kasari delete garney 
