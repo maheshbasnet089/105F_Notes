@@ -1,0 +1,17 @@
+TODO Day 5 : 
+<p>Hello </p>
+<h1>hello </h1>
+1. Media Source ( img ) <img src="a.png" alt srcset="a.jpg 480w,b.jpg 900, c.jpg 800" >/ <picture>
+
+ 
+2. HyperLinks(links) <a href=""></a>
+
+
+3. Forms,Input Types,action,method
+ buttons in html 
+ <input type="button" value="login"> ==> form submission by default hudainw,inline level,nested content halna mildaena 
+
+ <button>login</button> by default form submit huncha,block level element,nested content halna milxa
+
+
+Github : File delete kasari garney 
