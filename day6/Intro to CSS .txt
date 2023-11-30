@@ -1,0 +1,33 @@
+Intro to CSS 
+CSS-> Cascading stylesheet
+Types of CSS 
+
+key: value
+3 Types 
+Inline css 
+Internal CSS
+External CSS
+
+Basic CSS properties(color,font,background-color,....)
+Color : HSL,RGB,RGBA,HSLA,Hex
+
+RGB(Red,Green,Blue)
+0 to 255 intensity
+
+HSL(hue,saturation,lightness) 
+degree,%,%
+
+Hexa
+#6charactercode
+00 - FF samma huncha
+#rgb
+#000000
+
+opacity - 0 to 1 
+rgba(red,gree,blue,alpha)
+inline
+internal
+external
+
+px,cm,in --> absolute css units
+%,rem,em --> relative css units
