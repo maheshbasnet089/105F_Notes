@@ -1,0 +1,23 @@
+Todo : 
+Selectors Type 
+Element Selector
+Id Selector
+Class Selector
+
+id -> # , class -> . 
+id = p1(priority higher) > class (priority less)
+
+Universal Selector (*) -> everything
+border : border-width border-style border-color
+border : 1px solid red
+margin,padding(Box Model)
+
+margin : top right bottom left 
+margin : 20px 10px 4px 50px
+margin : topbottom leftRight
+margin : 20px 10px
+
+padding : top right bottom left 
+padding : 20px 10px 4px 50px
+
+
