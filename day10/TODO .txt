@@ -1,0 +1,22 @@
+TODO 
+ 
+  CSS Units
+Absolute Unit(fix)   Relative Unit
+Fixed            Change
+  px,               rem,
+  			em
+  			vw(viewport width)
+  			vh(viewport height),
+                      %
+
+
+em---> depends on parent font-size
+parent --> 20px 
+1em --> 1*20 = 20px
+2em --> 2*20 = 40px
+
+rem --> depends on html document/root 
+by default (font-size : 16px) --> 1 rem : 16px
+
+  
+  
