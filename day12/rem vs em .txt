@@ -1,0 +1,29 @@
+rem vs em 
+
+
+em --> parent 
+rem(root element) --> root --> 16px
+1 rem = 20px
+
+height : 1rem // 16px
+
+Casing In Programming 
+fileName,folderName,className,variable
+
+manishbasnet --> lowercase
+MANISHBASNET ---> UPPERCASE
+ManishBasnet ---> PascalCase
+manishBasnet --> camelCase
+manish-basnet --> kebab-case
+manish_basnet --> snake_case
+
+
+
+hellothisisitahari ==> camelCase ==> helloThisIsItahari
+
+hellothisisitahari ---> snake_case ==>hello_this_is_itahari
+
+hellothisisitahari --> kebab-case ==> hello-this-is-itahari
+
+
+backgroundImage in css
