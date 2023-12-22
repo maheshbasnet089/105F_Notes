@@ -1,0 +1,22 @@
+Animation 
+Keyframes 
+—> describes how the animated element should render at a given time during the animation sequence
+
+Use % to indicate time during the animation sequence
+E.g 10s 
+0% —> 0 second initially  —> from
+50% -> 5s {
+Yo left side bata right  ma lag they}
+
+75% -> 7s 
+100%-> 10s - to
+
+
+Animation : alias duration timing-function 
+
+Timing-function 
+Ease in -> slow start
+Ease-out —> slowly stop
+Ease-in-out - both start slow and stop slow
+
+
